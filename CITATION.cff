@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Illing"
+  given-names: "James"  
+title: "Software Forensics of USB devices"
+version: 1.0
+date-released: 06/04/2025
+url: "https://github.com/JamesIlling/Forensics-Website"
